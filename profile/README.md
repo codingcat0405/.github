@@ -38,7 +38,7 @@ contact me through the following channels:
   <a href="https://www.facebook.com/luuhuy04052001" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-blue?logo=facebook&logoColor=white&style=for-the-badge" alt="Facebook Badge"/>
   </a>
-  <a href="mailto:luuhuy040501.travail@gmail.com@example.com" target="_blank">
+  <a href="mailto:luuhuy040501.travail@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
   </a>
 
