@@ -13,11 +13,15 @@ various repositories showcasing my work and contributions to the coding communit
 ## About Me
 👋 Hi I'm LIL HUY - THE CODING CAT
 
-I'm a passionate developer and freelancer also a javascript hater who works with javascript every day :)), always on the lookout for exciting projects to work on. Whether you're
+I'm a passionate developer and freelancer also a javascript hater who works with javascript every day :))
+
+👀 I'm always on the lookout for exciting projects to work on. Whether you're
 interested in my personal projects, need a freelance developer, or want to collaborate on something new, you've come to
 the right place!
 
 Personal github: [lilhuy0405](https://github.com/lilhuy0405)
+
+My blogs: [tsmc.info/codingcat](https://tsmc.info/author/codingcat/)
 
 ## Contact Me
 
@@ -33,6 +37,9 @@ contact me through the following channels:
   </a>
   <a href="https://www.facebook.com/luuhuy04052001" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-blue?logo=facebook&logoColor=white&style=for-the-badge" alt="Facebook Badge"/>
+  </a>
+  <a href="mailto:luuhuy040501.travail@gmail.com@example.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
   </a>
 
 </div>
